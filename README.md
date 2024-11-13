@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nirjhar Barma and I do a little coding, from Kolkata, India</h2>
+<h2 align="left">Hi, My name is Nirjhar Barma and I do a little coding, from Kolkata, India</h2>
 
 ###
 
